@@ -1,0 +1,5 @@
+﻿
+C:\Users\Nabil Miri\Documents\Visual Studio 2015\Projects\opencv-test/resources/faces/arnold/arnold.jpg;0;Arnold
+C:\Users\Nabil Miri\Documents\Visual Studio 2015\Projects\opencv-test/resources/faces/arnold/arnold2.jpg;0;Arnold
+C:\Users\Nabil Miri\Documents\Visual Studio 2015\Projects\opencv-test/resources/faces/mandela/mandela.jpg;1;Nelson Mandela
+C:\Users\Nabil Miri\Documents\Visual Studio 2015\Projects\opencv-test/resources/faces/mandela/mandela2.jpg;1;Nelson Mandela
